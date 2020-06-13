@@ -11,7 +11,7 @@ title: "HTML"
 * HTML elements tell the browser how to display the content
 * HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 
-<br />
+<br>
 
 ### HTML <!DOCTYPE>
 
@@ -20,7 +20,7 @@ In HTML 5, the declaration is simple:
 ```
 <!DOCTYPE html>
 ```
-<br />
+<br>
 
 ### HTML Layout Elements and Techniques
 
@@ -38,12 +38,28 @@ In HTML 5, the declaration is simple:
 **Reference :**
 1. https://www.youtube.com/watch?v=dMK_3lH1YPo
 
-<br />
+<br>
 
 ### Anatomy of an HTML element
 
 <img src="https://mdn.mozillademos.org/files/7659/anatomy-of-an-html-element.png">
 
+<br>
 
+### HTML Layout Technique - CSS Flexbox Layout
 
+Before the Flexbox Layout module, there were four layout modes:
+
+*	Block, for sections in a webpage
+*	Inline, for text
+*	Table, for two-dimensional table data
+*	Positioned, for explicit position of an element
+
+The Flexible Box Layout Module, makes it easier to design flexible responsive layout structure without using float or positioning.\
+<br>
+Use of flexbox ensures that elements behave predictably when the page layout must accommodate different screen sizes and different display devices.
+
+**Reference :** 
+1. https://www.youtube.com/watch?v=aRMIdKRYg6c
+2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
