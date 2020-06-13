@@ -22,6 +22,24 @@ In HTML 5, the declaration is simple:
 ```
 <br />
 
+### HTML Layout Elements and Techniques
+
+<img src="https://www.w3schools.com/html/img_sem_elements.gif">/
+
+```<header>``` - Defines a header for a document or a section\
+```<nav>``` - Defines a container for navigation links\
+```<section>``` - Defines a section in a document\
+```<article>``` - Defines an independent self-contained article\
+```<aside>``` - Defines content aside from the content (like a sidebar)\
+```<footer>``` - Defines a footer for a document or a section\
+```<details>``` - Defines additional details\
+```<summary>``` - Defines a heading for the ```<details>``` element
+
+**Reference :**
+1. https://www.youtube.com/watch?v=dMK_3lH1YPo
+
+<br />
+
 ### Anatomy of an HTML element
 
 <img src="https://mdn.mozillademos.org/files/7659/anatomy-of-an-html-element.png">
